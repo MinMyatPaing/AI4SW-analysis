@@ -1,0 +1,7 @@
+name: ai4sw-graphs
+dependencies:
+  - python=3.9
+  - pandas
+  - matplotlib
+  - numpy
+  - jupyter
